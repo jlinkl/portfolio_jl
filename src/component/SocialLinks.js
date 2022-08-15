@@ -33,7 +33,7 @@ const SocialLinks = () => {
           rel="noopener noreferrer"
         >
           <Button type="button">
-            <FaTwitter size="2em"/>
+            <FaTwitter size="2em" color="white"/>
           </Button>
         </A>
 
@@ -43,7 +43,7 @@ const SocialLinks = () => {
           rel="noopener npreferrer"
         >
           <Button type="button">
-            <FaGithub size="2em"/>
+            <FaGithub size="2em" color="white"/>
           </Button>
         </A>
 
